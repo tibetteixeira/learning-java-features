@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.stream;
+package io.github.tibetteixeira.java8.stream;
 
 import java.util.Comparator;
 import java.util.List;

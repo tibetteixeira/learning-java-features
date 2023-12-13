@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.stream;
+package io.github.tibetteixeira.java8.stream;
 
 import java.io.*;
 import java.nio.file.Files;

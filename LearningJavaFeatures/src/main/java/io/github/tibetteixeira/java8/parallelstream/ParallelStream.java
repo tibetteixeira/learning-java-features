@@ -1,4 +1,4 @@
-package parallelstream;
+package io.github.tibetteixeira.java8.parallelstream;
 
 import java.util.*;
 import java.util.stream.Collectors;

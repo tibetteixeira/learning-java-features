@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.optional;
+package io.github.tibetteixeira.java8.optional;
 
 import java.util.List;
 
