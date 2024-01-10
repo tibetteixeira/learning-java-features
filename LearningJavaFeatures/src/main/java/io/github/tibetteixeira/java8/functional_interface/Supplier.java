@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.java8.interfacefuncional;
+package io.github.tibetteixeira.java8.functional_interface;
 
 import java.util.Random;
 import java.util.stream.Stream;
