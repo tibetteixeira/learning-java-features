@@ -1,6 +1,5 @@
 package io.github.tibetteixeira.java_initial_versions.reflection;
 
-import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.util.stream.Stream;
 

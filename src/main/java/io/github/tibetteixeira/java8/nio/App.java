@@ -3,7 +3,6 @@ package io.github.tibetteixeira.java8.nio;
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.*;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.util.zip.ZipEntry;
