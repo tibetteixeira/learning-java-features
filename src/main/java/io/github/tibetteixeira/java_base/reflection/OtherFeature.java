@@ -1,6 +1,6 @@
-package io.github.tibetteixeira.java_initial_versions.reflection;
+package io.github.tibetteixeira.java_base.reflection;
 
-import io.github.tibetteixeira.java_initial_versions.reflection.model.Pessoa;
+import io.github.tibetteixeira.java_base.reflection.model.Pessoa;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Modifier;
@@ -11,7 +11,7 @@ public class OtherFeature {
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, NoSuchMethodException, InvocationTargetException {
         Pessoa pessoa = new Pessoa(1L, "12345678909", "Eu", "Euzinho");
 
-        Class<?> clazz = Class.forName("io.github.tibetteixeira.java_initial_versions.reflection.model.Pessoa");
+        Class<?> clazz = Class.forName("io.github.tibetteixeira.java_base.reflection.model.Pessoa");
 
         System.out.println("Access modifier");
         int modifier = clazz.getModifiers();

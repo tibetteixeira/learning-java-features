@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.java_initial_versions.collection;
+package io.github.tibetteixeira.java_base.collection;
 
 public class App {
 

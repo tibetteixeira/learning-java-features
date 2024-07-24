@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.java_initial_versions.reflection.model;
+package io.github.tibetteixeira.java_base.reflection.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

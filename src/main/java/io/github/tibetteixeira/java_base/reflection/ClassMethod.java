@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.java_initial_versions.reflection;
+package io.github.tibetteixeira.java_base.reflection;
 
 import java.lang.reflect.Method;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class ClassMethod {
 
     public static void main(String[] args) throws ClassNotFoundException {
-        Class<?> clazz = Class.forName("io.github.tibetteixeira.java_initial_versions.reflection.model.Pessoa");
+        Class<?> clazz = Class.forName("io.github.tibetteixeira.java_base.reflection.model.Pessoa");
         Method[] methods = clazz.getDeclaredMethods();
 
         System.out.println("Methods");

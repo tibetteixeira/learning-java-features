@@ -1,4 +1,4 @@
-package io.github.tibetteixeira.java_initial_versions.reflection;
+package io.github.tibetteixeira.java_base.reflection;
 
 import java.lang.reflect.Field;
 import java.util.stream.Stream;
@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 public class ClassProperty {
 
     public static void main(String[] args) throws ClassNotFoundException {
-        Class<?> clazz = Class.forName("io.github.tibetteixeira.java_initial_versions.reflection.model.Pessoa");
+        Class<?> clazz = Class.forName("io.github.tibetteixeira.java_base.reflection.model.Pessoa");
         Field[] allFields = clazz.getDeclaredFields();
         Field[] publicFields = clazz.getFields();
 
