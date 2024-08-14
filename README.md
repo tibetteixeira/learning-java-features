@@ -275,4 +275,4 @@ Este repositório contém um mapeamento das principais características e mudan�
 
 ---
 
-Para mais detalhes sobre cada versão e suas mudanças, consulte a [documentação oficial do Java](https://docs.oracle.com/en/java/).
+Para mais detalhes sobre cada versão e suas mudanças, consulte a [documentação oficial do Java](https://www.java.com/releases/).
