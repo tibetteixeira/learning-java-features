@@ -1,4 +1,4 @@
-# Features do Java (8 ao 17)
+# Features do Java (7 ao 17)
 
 Este repositório contém um mapeamento das principais características e mudanças nas versões do Java de 8 a 17. O objetivo é fornecer uma visão clara das evoluções e melhorias em cada versão.
 
