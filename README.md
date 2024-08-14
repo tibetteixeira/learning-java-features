@@ -268,9 +268,10 @@ Este repositório contém um mapeamento das principais características e mudan�
 
 - **Data de Lançamento**: Setembro de 2021
 - **Principais Features**:
-    - **Seladas Classes**: Suporte aprimorado para classes seladas.
+    - **Sealed Classes**:  A funcionalidade que foi introduzida como preview no Java 15 e aprimorada no Java 16, torna-se uma característica padrão no Java 17.
     - **Pattern Matching for switch (Preview)**: Melhora a sintaxe do switch.
     - **JEP 389: Foreign Function & Memory API (Incubator)**: Introduz APIs para interagir com código nativo e memória fora do heap.
+    - **JEP 411: Depreciação da API de `Security Manager`**: Marca a API `Security Manager` como obsoleta e recomenda o uso de alternativas para controle de segurança em Java, refletindo mudanças na abordagem de segurança.
 
 ---
 
